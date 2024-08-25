@@ -13,8 +13,10 @@ const Hero = () => {
             className='w-[32px] h-[32px]'
           />
           <p className={`${styles.paragraph} ml-2`}>
-            <span className='text-white'>20%</span> Discount For {" "}
-            <span className='text-white'>1 Month</span> Account
+          Enabling 
+            <span className='text-white'> AI dominance </span>in 
+            <span className='text-white'> your</span> Industry for 
+            <span className='text-white'> You</span> {" "}
           </p>
         </div>
         <div className='flex flex-row justify-between items-center w-full'>
@@ -27,11 +29,10 @@ const Hero = () => {
           </div>
         </div>
         <h1 className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full'>
-          Payment Method.
+          AI Integration.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Our team of experts uses a methodology to identify the credit cards most likely to fit your needs. 
-        We examine annual percentage rates, annual fees.  
+        By leveraging AI-powered Vision, Text, and Generative Intelligence, we transform your infrastructure, ensuring your business model achieves its full potential.
         </p>
       </div>
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

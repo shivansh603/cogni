@@ -7,12 +7,14 @@ const CardDeal = () => {
   return (
     <section className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Find a better card deal <br className='sm:block hidden'/>in few easy steps.</h2>
+        <h2 className={styles.heading2}>Computer Vision based <br className='sm:block hidden'/>specialized solutions</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Arcu tortor,
-          purus in mattis at sed integer faucibus.
-          Aliquet quis aliquet eget mauris tortor.ç 
-          Aliquet ultrices ac, ametau.
+          AI Automation for various Tasks<br></br><br></br>
+          <ul>
+            <li>Manufacturing Quality Control</li>
+            <li>Inventory Management</li>
+            <li>Autonomous Supply Chain Management</li>
+          </ul>
         </p>
         <Button styles='mt-10'/>
       </div>

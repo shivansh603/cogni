@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Competitive Advantage",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Leverage the latest in AI technology to drive cutting-edge solutions and stay ahead in your industry while navigating the competitive market.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "AI-Fueled Productivity Gains",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Maximize productivity and performance with AI that continuously learns and adapts to your business needs.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "AI-Driven Growth",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Unlock new revenue streams and business opportunities by harnessing AI's potential.",
   },
 ];
 
@@ -62,24 +62,24 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+      "<To be Populated>",
+    name: "KNV Aditya",
     title: "Founder & Leader",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
+      "<To be Populated>",
+    name: "Harsh Mishra",
     title: "Founder & Leader",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
+      "<To be Populated>",
+    name: "Shivansh Darshan",
     title: "Founder & Leader",
     img: people03,
   },
@@ -88,18 +88,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Ongoing Projects",
+    value: "30+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Companies trusted by",
+    value: "20+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Delivered Production AI Projects",
+    value: "50+",
   },
 ];
 
